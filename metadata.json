@@ -1,0 +1,7 @@
+{
+  "name": "LearnLab AI",
+  "description": "Smart Doubt-Solving for Schools. A platform that provides clear, context-based explanations for academic doubts tailored to your difficulty level.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
